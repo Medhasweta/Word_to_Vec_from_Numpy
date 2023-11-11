@@ -11,7 +11,7 @@ Examples of Word2Vec Usage
 Here are some examples of how Word2Vec can be used:
 
 Word similarity: Word2Vec can be used to find the most similar words to a given word. For example, the most similar words to the word "king" might be "queen", "prince", "duke", and "emperor".
-Analogy detection: Word2Vec can be used to detect analogies between words. For example, the analogy "king:man::woman:?" can be solved by finding the word that is analogous to "queen" (i.e., "woman").
+Analogy detection: Word2Vec can be used to detect analogies between words. For example, the analogy "king: man: : woman:??" can be solved by finding the word that is analogous to "queen" (i.e., "woman").
 Sentiment analysis: Word2Vec can be used to perform sentiment analysis. For example, the sentence "This is a great movie!" can be analyzed to determine whether it is positive, negative, or neutral.
 Theoretical Benefits of Word2Vec
 Word2Vec has a number of theoretical benefits, including:
